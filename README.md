@@ -1,2 +1,3 @@
 # sakshi
-this is my first githun project
+this is my first github project
+author sakshi kharmate
